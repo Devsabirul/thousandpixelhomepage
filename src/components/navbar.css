@@ -1,0 +1,8 @@
+.nav{
+    width: 1000px;
+    height: 30px;
+     background-image: linear-gradient(rgb(230 255 0), rgb(50 50 43 / 78%));
+}
+.navbar{
+    margin: 0 auto;
+}
